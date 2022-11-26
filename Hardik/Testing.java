@@ -26,7 +26,7 @@ public class testing {
 		printStars();
 
 
-		System.out.print("\n\nDeveloped by Archit\n"
+		System.out.print("\n\nDeveloped by Hardik Pachange\n"
 			+ "OODP101 Object Oriented Design and Programming\n"
 			+ date
 			+ "\n\n\n");
@@ -109,7 +109,7 @@ public static double handleMenu(int userOption) {
 		}
 		
 		
-		System.out.println("Now enter the time of trave; using 24 hour clock just like 9.00 for 9am, 13.00 for 1pm, 14.30 for 2:30pm");
+		System.out.println("Now enter the time of travel; using 24 hour clock just like 9.00 for 9am, 13.00 for 1pm, 14.30 for 2:30pm");
 		time = sc.nextDouble();
 	}
 	
